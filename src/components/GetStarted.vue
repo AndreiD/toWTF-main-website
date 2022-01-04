@@ -4,6 +4,6 @@
 
 <script>
 export default {
-  name: "GetStarted",
+  name: "Get Started",
 };
 </script>
