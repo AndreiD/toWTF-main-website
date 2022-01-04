@@ -1,0 +1,8 @@
+{
+	"name": "Bandyland",
+	"description": "Established in 1991, Bandyland is the imagination of Bandy, and an unlimited source of creativity.",
+	"image": "https://to.wtf/contract_uri/bandyland/bandyland.gif",
+	"external_link": "https://bandyland.netlify.app",
+	"seller_fee_basis_points": 300,
+	"fee_recipient": "0x3D4a3cC92cFabcE64F28a16bA5574186b92346dF"
+}

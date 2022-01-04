@@ -1,0 +1,8 @@
+{
+	"name": "Shopverse",
+	"description": "Shopverse ( ʃɑp vɜrs  ) a fantastical adventure into the genesis collection by Shopping.io with real world Shopping utility.",
+	"image": "https://to.wtf/contract_uri/shopverse/shopping.png",
+	"external_link": "https://shopping.io",
+	"seller_fee_basis_points": 300,
+	"fee_recipient": "0x3D4a3cC92cFabcE64F28a16bA5574186b92346dF"
+}

@@ -1,0 +1,8 @@
+{
+	"name": "Rad Reindeers",
+	"description": "The Rad Reindeer are a collection of 9,999 ETH NFTs presenting a new way of celebrating this holiday season. Over 65% is going back to the community and charity to have fun, do good, and reward holders.",
+	"image": "https://to.wtf/contract_uri/raindeers.jpeg",
+	"external_link": "https://radreindeer.com",
+	"seller_fee_basis_points": 100,
+	"fee_recipient": "0x415365B365d618aceA382Dd9A2eb5cDAd59f5Adc"
+}

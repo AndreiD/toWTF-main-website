@@ -1,0 +1,8 @@
+{
+	"name": "OGCATS",
+	"description": "The main focus of the project is to acquire, develop and operate mobile games as well as to collaborate with game studios for NFT integrations.",
+	"image": "https://to.wtf/contract_uri/ogcats/default.gif",
+	"external_link": "https://ogcats.io",
+	"seller_fee_basis_points": 300,
+	"fee_recipient": "0xceaEc97dF672FA60d5B38C3120aF88716ec5D552"
+}

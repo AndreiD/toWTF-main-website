@@ -1,0 +1,8 @@
+{
+	"name": "BOWER BIRD MINT PASS",
+	"description": "The BOWERBIRDS are an NFT art collection of 10,101 unique collectible hand painted works of art, brought to life by award winning artist GT Gart. They exist in the BowerBird Collective, a gathering of NFT art collectors and NFT artists, brought together in a unique online community.",
+	"image": "https://to.wtf/contract_uri/mint-passport-short.gif",
+	"external_link": "https://bowerbirdcollective.io",
+	"seller_fee_basis_points": 100,
+	"fee_recipient": "0x415365B365d618aceA382Dd9A2eb5cDAd59f5Adc"
+}
