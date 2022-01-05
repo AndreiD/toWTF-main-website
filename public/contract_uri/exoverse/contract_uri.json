@@ -1,8 +1,8 @@
 {
 	"name": "Exoverse",
-	"description": "exoverse....",
+	"description": "The Worlds First NFT Community to own a piece of Outer Space. Stay up to date with the links below for launch!",
 	"image": "https://to.wtf/contract_uri/exoverse/placeholder.png",
-	"external_link": "https://to.wtf",
+	"external_link": "https://theexoverse.io",
 	"seller_fee_basis_points": 0,
-	"fee_recipient": "0x00000004Af22764bb04ddf4402Fd35F6e3011123"
+	"fee_recipient": "0xdB2D562D3286B7D1FD86a2bA14802314F3c02661"
 }
