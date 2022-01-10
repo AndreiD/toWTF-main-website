@@ -65,7 +65,7 @@
         <div
           class="margin"
           style="
-            margin: 10px auto;
+            margin: 10px 5px 10px 5px auto;
             padding: 10px 30px;
             text-align: center;
             max-width: 540px;

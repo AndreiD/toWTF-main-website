@@ -37,7 +37,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #0f2a63;
-  background-color: #B3E6BE;
+  background-color: #b3e6be;
 }
 .container {
   max-width: 800px;
@@ -64,7 +64,7 @@ li {
   margin-left: 1.5em;
 }
 li::before {
-  content: '';
+  content: "";
   position: absolute;
   display: inline-block;
   height: 1em;
