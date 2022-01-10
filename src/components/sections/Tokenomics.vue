@@ -50,10 +50,24 @@
           distribution <br />- Governance analysis and tooling (if a DAO is
           created) <br />- DAO philosophy and risk management Note that: <br />-
           normal price per tokenomics $10000-$30000, time to deliver 7-14 days
-          <br />- 100% refund if we don't meet the deadline <br />- the
-          tokenomics are confidential. it's up to you to do whatever you want
-          with it after
         </p>
+
+        <div
+          class="margin"
+          style="
+            margin: 10px auto;
+            padding: 10px 30px;
+            text-align: center;
+            max-width: 540px;
+            border-left: 1px solid #0f2a63;
+            border-right: 1px solid #0f2a63;
+            border-radius: 50px;
+          "
+        >
+          100% refund if we don't meet the deadline <br />- the tokenomics are
+          confidential.
+        </div>
+
         <p class="alpina mobile" style="font-size: 20px; margin: 0 20px">
           - Ecosystem Analysis: who is involved and how. what is your token
           utility and it's interactions. This is done before starting anything
@@ -65,9 +79,6 @@
           distribution <br />- Governance analysis and tooling (if a DAO is
           created) <br />- DAO philosophy and risk management Note that: <br />-
           normal price per tokenomics $10000-$30000, time to deliver 7-14 days
-          <br />- 100% refund if we don't meet the deadline <br />- the
-          tokenomics are confidential. it's up to you to do whatever you want
-          with it after
         </p>
       </div>
     </div>

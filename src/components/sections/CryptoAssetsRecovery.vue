@@ -61,11 +61,24 @@
           or on-site
           <br />
           <br />
-          <span class="margin: 10px; font-weight: bold">Note that:</span>
           <br />
-
-          <br />- We work only with Bitcoin and Ethereum Based Blockchains
         </p>
+
+        <div
+          class="margin"
+          style="
+            margin: 10px auto;
+            padding: 10px 30px;
+            text-align: center;
+            max-width: 540px;
+            border-left: 1px solid #0f2a63;
+            border-right: 1px solid #0f2a63;
+            border-radius: 50px;
+          "
+        >
+          We work only with Bitcoin and Ethereum Based Blockchains
+        </div>
+
         <p class="alpina mobile" style="font-size: 20px; margin: 0 20px">
           <br />- We have seen hundrends of crypto scams over the years <br />-
           We investigate the technical clues that the bad actors give <br />- We

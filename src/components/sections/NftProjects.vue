@@ -58,16 +58,42 @@
           wallet<br /><br />
           We have over 15 NFT projects published with big names like Metasaurs &
           Crypto Cannabis Club
-          <br /><br />The artwork the most time-takeing task in an NFT project -
-          you can find more about how you can prepare your artwork in the
+          <br /><br />
+          <br />
+        </p>
+
+        <div
+          class="margin"
+          style="
+            margin: 10px auto;
+            padding: 10px 30px;
+            text-align: center;
+            max-width: 540px;
+            border-left: 1px solid #0f2a63;
+            border-right: 1px solid #0f2a63;
+            border-radius: 50px;
+          "
+        >
+          The artwork the most time-takeing task in an NFT project - you can
+          find more about how you can prepare your artwork in the
           <a
             target="_blank"
             href="https://inblockchainwetrust.medium.com/preparing-the-nft-layers-assets-generation-avatar-style-random-layers-random-combinations-6d79353c91c4"
             >following article</a
           >
-          <br />
+        </div>
+
+        <p class="alpina mobile" style="font-size: 20px; margin: 0 20px">
+          Thanks to the internet, an artist can upload, share, and get thousands
+          of likes for a digital artwork—but where can they go to cash in on
+          that ? <br /><br />
+          We help guide you through the process so you can sell your artwork as
+          unique digital art NFTs and tranfer you the revenue directly into your
+          wallet<br /><br />
+          We have over 15 NFT projects published with big names like Metasaurs &
+          Crypto Cannabis Club
+          <br /><br />
         </p>
-        <p class="alpina mobile" style="font-size: 20px; margin: 0 20px"></p>
       </div>
     </div>
   </div>

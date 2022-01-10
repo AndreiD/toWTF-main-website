@@ -32,7 +32,7 @@
                 z-index: 1;
               "
             >
-              DAO
+              DAO (Decentralized Autonomous Organization)
             </h1>
           </div>
         </div>
@@ -40,11 +40,11 @@
           class="alpina desktop"
           style="font-size: 20px; margin: 10px 0 10px 130px; max-width: 540px"
         >
-          Many DAOs fall into one of two general buckets: Those that manage open
-          source, blockchain-based projects together and those that make
-          investments. They can act similar to limited liability companies
-          (LLCs), VC firms or investment firms, like PleasrDAO.
-          <br /><br />
+          Many DAOs fall into one of two general buckets: <br />Those that
+          <strong>manage open source</strong>, blockchain-based projects
+          together and those that <strong>make investments</strong>.<br />They
+          can act similar to limited liability companies (LLCs), VC firms or
+          investment firms, like PleasrDAO. <br /><br />
 
           But DAOs can be also charities, businesses, social networks, unions or
           political groups.
@@ -58,22 +58,40 @@
           <br />- Permissionless - DAOs are unregulated and cannot be sanctioned
           by governments.
 
+          <br />
           <br />Why not DAO
+          <br />
 
           <br />Can be complicated - A DAO is a new technology so its
-          terminology and user experience can be confusing. This is where we
-          will help!
+          terminology and user experience can be confusing
 
+          <br />
           <br />OUR JOB IS:
+          <br />
 
           <br />- Advice how to build them <br />- Building them <br />-
           Onboarding new members <br />- Risk Management
 
-          <br />Note that:
           <br />
-          <br />usual time to deliver 7-14 days (and up to 1 month for
-          onboarding) <br />100% refund if we don't meet the deadline
+          <br />
         </p>
+
+        <div
+          class="margin"
+          style="
+            margin: 10px auto;
+            padding: 10px 30px;
+            text-align: center;
+            max-width: 540px;
+            border-left: 1px solid #0f2a63;
+            border-right: 1px solid #0f2a63;
+            border-radius: 50px;
+          "
+        >
+          The usual time to deliver 7-14 days (and up to 1 month for onboarding)
+          <br />100% refund if we don't meet the deadline
+        </div>
+
         <p class="alpina mobile" style="font-size: 20px; margin: 0 20px">
           Many DAOs fall into one of two general buckets: Those that manage open
           source, blockchain-based projects together and those that make

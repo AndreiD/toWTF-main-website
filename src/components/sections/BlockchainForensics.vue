@@ -61,17 +61,31 @@
           <br />- Monitoring investment scams & fraudulent ICOs <br />- eCrime,
           Money laundering, Data extortion
 
-          <br />- We work only with Bitcoin and Ethereum Based Blockchains
           <br />- 100% refund if we don't meet the deadline <br />- the audit is
           confidential. it's up to you to do whatever you want with it after
         </p>
+
+        <div
+          class="margin"
+          style="
+            margin: 10px auto;
+            padding: 10px 30px;
+            text-align: center;
+            max-width: 540px;
+            border-left: 1px solid #0f2a63;
+            border-right: 1px solid #0f2a63;
+            border-radius: 50px;
+          "
+        >
+          We work only with Bitcoin and Ethereum Based Blockchains
+        </div>
+
         <p class="alpina mobile" style="font-size: 20px; margin: 0 20px">
           <br />- Transaction tracking and blockchain forensics <br />- on-chain
           analytics, follow the money <br />- stolen cryptocurrencies tracing
           <br />- Monitoring investment scams & fraudulent ICOs <br />- eCrime,
           Money laundering, Data extortion
 
-          <br />- We work only with Bitcoin and Ethereum Based Blockchains
           <br />- 100% refund if we don't meet the deadline <br />- the audit is
           confidential. it's up to you to do whatever you want with it after
         </p>
