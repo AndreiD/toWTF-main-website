@@ -43,7 +43,7 @@
           class="menu"
           style="padding: 5px"
         >
-          <h2>×</h2>
+          <h2><span style="color: white">×</span></h2>
         </div>
       </div>
     </div>
@@ -101,7 +101,6 @@ export default {
   transition: 0.2s;
 }
 .menu:hover {
-  background-color: rgba(15, 42, 99, 0.1);
   transition: 0.2s;
 }
 .line {

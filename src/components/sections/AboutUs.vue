@@ -21,21 +21,11 @@
       <div style="position: relative">
         <div style="display: flex; align-items: flex-end">
           <h1 class="mobile" style="padding: 20px">
-            BLOCKCHAIN AND SMART CONTRACTS SOFTWARE DEVELOPMENT
+            BLOCKCHAIN AND SMART CONTRACTS DEVELOPMENT
           </h1>
           <div class="desktop" style="margin-left: 110px">
-            <h1 style="padding-left: 20px">BLOCKCHAIN AND SMART</h1>
-            <h1 style="padding-left: 20px">CONTRACTS SOFTWARE</h1>
-            <h1
-              style="
-                padding: 0 50px 0 20px;
-                position: relative;
-                width: fit-content;
-                background-color: #d9dbda;
-                z-index: 1;
-              "
-            >
-              DEVELOPMENT
+            <h1 style="padding-left: 20px">
+              BLOCKCHAIN AND SMART CONTRACTS DEVELOPMENT
             </h1>
           </div>
         </div>
@@ -50,7 +40,7 @@
     <div class="container">
       <p
         class="alpina desktop"
-        style="font-size: 20px; margin: 10px 0 10px 130px; max-width: 540px"
+        style="font-size: 20px; margin: 20px 0 10px 130px; max-width: 540px"
       >
         We utilize our expertise and passion to build blockchain based solutions
         to empower businesses and inventive entrepreneurs to automate

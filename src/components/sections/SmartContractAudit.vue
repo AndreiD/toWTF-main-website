@@ -146,7 +146,7 @@
         <div
           style="
             background-color: #fff;
-            margin-right: 10px;
+            margin: 10px;
             border: 1px solid #0f2a63;
             border-radius: 50%;
             width: 30%;
