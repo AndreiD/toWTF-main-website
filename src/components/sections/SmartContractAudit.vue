@@ -4,7 +4,7 @@
       class="mobile"
       style="display: flex; flex-direction: column; align-items: flex-end"
     >
-      <span style="margin: 0 20px">SMART CONTRACT AUDIT</span>
+      <span style="margin: 0 20px">WE PROVIDE THE FOLLOWING SERVICES</span>
       <div class="hr"></div>
     </div>
     <div class="desktop" style="height: 30px"></div>
@@ -14,7 +14,7 @@
     >
       <div class="container">
         <h4 style="width: 110px !important; direction: rtl">
-          SMART CONTRACT AUDIT
+          WE PROVIDE THE FOLLOWING SERVICES
         </h4>
       </div>
       <div class="hr desktop" style="z-index: 0"></div>
@@ -22,9 +22,7 @@
     <div class="container" style="padding-top: 20px; margin: 0 auto 50px">
       <div style="position: relative">
         <div style="display: flex; align-items: flex-end">
-          <h1 class="mobile" style="padding: 0 20px">
-            WE PROVIDE THE FOLLOWING SERVICES
-          </h1>
+          <h1 class="mobile" style="padding: 0 20px">SMART CONTRACT AUDIT</h1>
           <div class="desktop" style="margin-left: 110px">
             <h1
               style="
@@ -35,7 +33,7 @@
                 z-index: 1;
               "
             >
-              WE PROVIDE THE
+              SMART CONTRACT
             </h1>
             <h1
               style="
@@ -46,7 +44,7 @@
                 z-index: 1;
               "
             >
-              FOLLOWING SERVICES
+              AUDIT
             </h1>
           </div>
         </div>
@@ -60,6 +58,7 @@
           max-width: 540px;
         "
       >
+        <br />
         <li>
           Check against the latest attack vectors and give you a full pdf audit
           report.
