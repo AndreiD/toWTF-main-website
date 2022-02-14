@@ -197,7 +197,7 @@
             We can only audit smart contracts that are on etherum, binance smart
             chain (bsc), polygon (matic), fantom, avalance's c-chain, harmony
             one, kucoin (kcc), huobi eco, arbitrum, or any other evm-compatible
-            side-chain or 12 chain
+            side-chain or L2 chain
           </li>
         </ul>
       </div>
